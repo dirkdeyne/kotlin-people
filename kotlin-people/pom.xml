@@ -82,7 +82,7 @@
 				<groupId>org.jetbrains.kotlin</groupId>
 				<artifactId>kotlin-maven-plugin</artifactId>
 				<configuration>
-					<jvmTarget>1.8</jvmTarget>
+<!-- 					<jvmTarget>1.8</jvmTarget> -->
 					<compilerPlugins>
 						<plugin>jpa</plugin>
 						<plugin>spring</plugin>
